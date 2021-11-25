@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-https://github-readme-stats.vercel.app/api?username=Nishi05&count_private=true
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Nishi05&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishi05" />
+</a>
+
 <!--
 **Nishi05/Nishi05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
